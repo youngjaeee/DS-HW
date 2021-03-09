@@ -1,0 +1,1 @@
+This text file was made to test whether git-push function works.
